@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(9,34,74,255);
+}
+h1{
+    color: white;
+}
+button{
+    position: absolute;
+    width: 80px;
+    top: 10px;
+    right: 10px;
+}
+button:hover{
+    background-color: rgba(5,67,117,255);
+    cursor: pointer;
+}
+
+.success{
+    font-size: 20px;
+    color: #ffffff;
+}
